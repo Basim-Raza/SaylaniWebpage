@@ -1,0 +1,30 @@
+.custom-bg {
+    background-color: #1565C0 ;
+}
+
+.btnSize{
+    height: 27px;
+}
+
+#navigate{
+    height: 72px;
+}
+.nav-hover:hover{
+    background-color: #1565C0 !important;
+}
+.nav-hover-anchor:hover{
+    color: #fff !important;
+}
+
+#headline{
+    margin-top: 14px;
+    margin-bottom: 72px;
+    height: 30px;
+}
+
+#fourColumnSect{
+    margin-top: 110px !important;
+    margin-bottom: 45px !important;
+    padding-top: 90px !important;
+
+}
